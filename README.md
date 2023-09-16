@@ -1,0 +1,2 @@
+# godot-trials
+Learning godot
